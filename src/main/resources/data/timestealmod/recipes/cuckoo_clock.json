@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "FCG",
+    " E "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:brick"
+    },
+    "G": {
+      "item": "timestealmod:cog"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "timestealmod:cuckoo_clock"
+  }
+}

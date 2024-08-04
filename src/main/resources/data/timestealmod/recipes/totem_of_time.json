@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RAG",
+    "CTC",
+    "GAR"
+  ],
+  "key": {
+    "R": {
+      "item": "timestealmod:rusty_cog"
+    },
+    "A": {
+      "item": "timestealmod:clock_hand_arrow"
+    },
+    "G": {
+      "item": "timestealmod:cog"
+    },
+    "C": {
+      "item": "timestealmod:cuckoo_clock"
+    },
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "timestealmod:totem_of_time"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SHT",
+    "WNW",
+    "CHR"
+  ],
+  "key": {
+    "R": {
+      "item": "timestealmod:rewind_hourglass"
+    },
+    "S": {
+      "item": "timestealmod:sundial"
+    },
+    "T": {
+      "item": "timestealmod:totem_of_time"
+    },
+    "H": {
+      "item": "timestealmod:clock_hand_arrow"
+    },
+    "N": {
+      "item": "timestealmod:netherite_clock"
+    },
+    "W": {
+      "item": "timestealmod:withdrawn_time_fifty"
+    },
+    "C": {
+      "item": "timestealmod:cuckoo_clock"
+    }
+  },
+  "result": {
+    "item": "timestealmod:damaged_stopwatch"
+  }
+}

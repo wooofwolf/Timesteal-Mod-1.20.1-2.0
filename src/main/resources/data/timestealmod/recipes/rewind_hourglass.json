@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ORO",
+    " T ",
+    "ABA"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:recovery_compass"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "T": {
+      "item": "timestealmod:totem_of_time"
+    },
+    "A": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "O": {
+      "item": "timestealmod:overtime"
+    }
+  },
+  "result": {
+    "item": "timestealmod:rewind_hourglass"
+  }
+}

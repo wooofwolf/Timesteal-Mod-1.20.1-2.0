@@ -1,0 +1,39 @@
+{
+  "item.timestealmod.rusty_cog": "Rusty Cog",
+  "item.timestealmod.cog": "Cog",
+  "item.timestealmod.gear": "Gear",
+  "item.timestealmod.golden_gear": "Golden Gear",
+  "item.timestealmod.warden_heart": "Warden Heart",
+  "item.timestealmod.clock_hand_arrow": "Clock Hand Arrow",
+  "item.timestealmod.cuckoo_clock": "Cuckoo Clock",
+  "item.timestealmod.sundial": "Sundial",
+  "item.timestealmod.netherite_clock": "Netherite Clock",
+  "item.timestealmod.totem_of_time": "Totem of Time",
+  "item.timestealmod.overtime": "Overtime",
+  "item.timestealmod.withdrawn_time": "Withdrawn Time",
+  "item.timestealmod.withdrawn_time_fifty": "Withdrawn Time",
+  "item.timestealmod.golden_overtime": "Golden Overtime",
+  "item.timestealmod.rewind_hourglass": "Rewind Hourglass",
+  "item.timestealmod.damaged_stopwatch": "Damaged Stopwatch",
+  "item.timestealmod.start_season": "Start Season",
+
+  "item.minecraft.potion.effect.slow_down_potion": "Slow Down Potion",
+  "item.minecraft.splash_potion.effect.slow_down_potion": "Splash Potion of Slow Down",
+  "item.minecraft.lingering_potion.effect.slow_down_potion": "Lingering Potion of Slow Down",
+  "item.minecraft.tipped_arrow.effect.slow_down_potion": "Arrow of Slow Down",
+
+  "item.minecraft.potion.effect.speed_up_potion": "Speed Up Potion",
+  "item.minecraft.splash_potion.effect.speed_up_potion": "Splash Potion of Speed Up",
+  "item.minecraft.lingering_potion.effect.speed_up_potion": "Lingering Potion of Speed Up",
+  "item.minecraft.tipped_arrow.effect.speed_up_potion": "Arrow of Speed Up",
+
+  "itemgroup.timestealmod.timesteal_group": "Timesteal SMP",
+
+  "effect.timestealmod.slow_down": "Slow Down",
+  "effect.timestealmod.speed_up": "Speed Up",
+  "effect.timestealmod.saturation_update": "Saturation",
+
+  "entity.timestealmod.clock_hand_arrow_projectile": "Clock Hand Arrow",
+
+  "enchantment.timestealmod.time_steal": "Time Steal"
+}

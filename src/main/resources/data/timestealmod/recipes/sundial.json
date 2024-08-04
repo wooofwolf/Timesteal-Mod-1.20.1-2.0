@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " GD",
+    "CCC",
+    "SSS"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:daylight_detector"
+    },
+    "C": {
+      "item": "timestealmod:cog"
+    },
+    "S": {
+      "tag": "timestealmod:sherds"
+    }
+  },
+  "result": {
+    "item": "timestealmod:sundial"
+  }
+}

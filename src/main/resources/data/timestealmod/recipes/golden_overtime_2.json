@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GXG",
+    "YCD",
+    "GNG"
+  ],
+  "key": {
+    "G": {
+      "item": "timestealmod:cog"
+    },
+    "X": {
+      "item": "minecraft:chain"
+    },
+    "D": {
+      "item": "timestealmod:gear"
+    },
+    "N": {
+      "item": "timestealmod:warden_heart"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "Y": {
+      "item": "timestealmod:golden_gear"
+    }
+  },
+  "result": {
+    "item": "timestealmod:golden_overtime"
+  }
+}
